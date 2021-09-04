@@ -29,6 +29,13 @@ A total of 424 PBC patients, referred to Mayo Clinic during that ten-year interv
 19) Prothrombin: prothrombin time in seconds [s]
 20) Stage: histologic stage of disease (1, 2, 3, or 4)
 
+![Correlation Matrix of Relationship between N_Days and Alk_Phos](https://user-images.githubusercontent.com/87962854/132109467-70a01934-9f83-4923-b139-142096294855.png)
+
+![GG Stats Plot of Relationship between N_Days and Alk_Phos](https://user-images.githubusercontent.com/87962854/132109478-d43f118f-9c4d-421b-a011-9a21573b75bb.png)
+
+![Predictive Relationship between Patient   Severity of Condition](https://user-images.githubusercontent.com/87962854/132109508-135e0fe1-62c6-44b9-be83-f79fe143c941.png)
+
+![QQ Plot on the Cirrhosis Linear Model](https://user-images.githubusercontent.com/87962854/132109514-132c377f-a543-440a-a7ca-a73f9778614d.png)
 
 
 # Citations
