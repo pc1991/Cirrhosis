@@ -1,5 +1,5 @@
-# Cirrhosis
-Cirrhosis Prediction Dataset (Courtesy: fedesoriano of Kaggle)
+# Cirrhosis Prediction Dataset 
+(Courtesy: fedesoriano of Kaggle)
 
 # Context
 Cirrhosis is a late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. The following data contains the information collected from the Mayo Clinic trial in primary biliary cirrhosis (PBC) of the liver conducted between 1974 and 1984. A description of the clinical background for the trial and the covariates recorded here is in Chapter 0, especially Section 0.2 of Fleming and Harrington, Counting
