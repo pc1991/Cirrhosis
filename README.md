@@ -29,11 +29,21 @@ A total of 424 PBC patients, referred to Mayo Clinic during that ten-year interv
 19) Prothrombin: prothrombin time in seconds [s]
 20) Stage: histologic stage of disease (1, 2, 3, or 4)
 
+# Correlation Matrix & Scatter Plot of the Relationship b/w N_Days & Alk_Phos
+
 ![Correlation Matrix of Relationship between N_Days and Alk_Phos](https://user-images.githubusercontent.com/87962854/132109467-70a01934-9f83-4923-b139-142096294855.png)
 
 ![GG Stats Plot of Relationship between N_Days and Alk_Phos](https://user-images.githubusercontent.com/87962854/132109478-d43f118f-9c4d-421b-a011-9a21573b75bb.png)
 
+The above graphs describe how linear the relationship is between the variables. In common sense terms, they simply prove that as the days increase without treatment, the alkaline phosphatase continues to rise causing further liver damage.
+
+# Predictive Relationship b/w the Patient & the Severity of the Patient's Condition
+
 ![Predictive Relationship between Patient   Severity of Condition](https://user-images.githubusercontent.com/87962854/132109508-135e0fe1-62c6-44b9-be83-f79fe143c941.png)
+
+
+
+# Quantile-Quantile Plot of the Cirrhosis Linear Model
 
 ![QQ Plot on the Cirrhosis Linear Model](https://user-images.githubusercontent.com/87962854/132109514-132c377f-a543-440a-a7ca-a73f9778614d.png)
 
