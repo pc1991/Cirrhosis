@@ -47,6 +47,11 @@ Please treat this graph as a map. Take note that the patient number represents t
 
 ![QQ Plot on the Cirrhosis Linear Model](https://user-images.githubusercontent.com/87962854/132109514-132c377f-a543-440a-a7ca-a73f9778614d.png)
 
+The QQ Plot of this model shows how legitimate this model really is and should be taken seriously.
+
+# Conclusion
+
+Take note that this is data compiled from 1974 to 1984. This survey was published in 1991. There are a lot more technological advances over the years to advance treatment for patients with cirrhosis. However, this data can be used as a tool for doctors, nurses, chemists, and pharmeceutical companies to analyze the deficiencies of these patients and see what potential medications and medical methods can be developed given this information.
 
 # Citations
 
