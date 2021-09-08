@@ -41,7 +41,7 @@ The above graphs describe how linear the relationship is between the variables. 
 
 ![Predictive Relationship between Patient   Severity of Condition](https://user-images.githubusercontent.com/87962854/132109508-135e0fe1-62c6-44b9-be83-f79fe143c941.png)
 
-
+Please treat this graph as a map. Take note that the patient number represent the ID of a patient. For each number measures its serious condition. The more serious condition the patient is in, the more vital it is that doctors and nurses must swiftly treat that patient.
 
 # Quantile-Quantile Plot of the Cirrhosis Linear Model
 
