@@ -8,7 +8,7 @@ Processes and Survival Analysis, Wiley, 1991. A more extended discussion can be 
 A total of 424 PBC patients, referred to Mayo Clinic during that ten-year interval, met eligibility criteria for the randomized placebo-controlled trial of the drug D-penicillamine. The first 312 cases in the dataset participated in the randomized trial and contain largely complete data. The additional 112 cases did not participate in the clinical trial but consented to have basic measurements recorded and to be followed for survival. Six of those cases were lost to follow-up shortly after diagnosis, so the data here are on an additional 106 cases as well as the 312 randomized participants.
 
 # Attribute Information
-1) ID: unique identifier
+1) ID: unique identifier (patient #)
 2) N_Days: number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986
 3) Status: status of the patient C (censored), CL (censored due to liver tx), or D (death)
 4) Drug: type of drug D-penicillamine or placebo
